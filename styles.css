@@ -1,1 +1,54 @@
 /* Write your CSS here! */
+.center {
+    text-align: center;
+}
+
+p {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+figcaption {
+    padding-left: 30px;
+    font-style: italic;
+    text-align: center;
+}
+
+#mainHeading {
+    color: red;
+}
+
+body {
+    margin: 8px;
+    display: block;
+    background-color: grey;
+}
+
+.funParagraph {
+    color: green;
+}
+
+.horizontalImage {
+    width: 616px;
+    height: 353px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.verticalImage {
+    width: 616px;
+    height: 650px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
